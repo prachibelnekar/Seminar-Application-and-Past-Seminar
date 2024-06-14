@@ -23,7 +23,7 @@ const Home = () => {
               </NavLink>
             </div>
             {/* Image Section */}
-            <div className="order-1 sm:order-2 w-[640px] px-4 sm:px-0 p-10 bg-red-800 ">
+            <div className="order-1 sm:order-2 w-[550px] px-4 sm:px-0 p-10 bg-red-800 ">
               <img src={seminar} alt="seminar" className="w-full h-[600px] rounded-full" />
             </div>
           </div>
